@@ -7,8 +7,7 @@
 The current implementation supports the [Everest platform](http://everest.distcomp.org) for managing the execution of parallel tasks on distributed computing resources over the Internet. It can also model logic and measure the performance of a complex many-task workflow on a single computer.
 
 You can try Templet
-* interactively with Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Glor27/templet.git/HEAD),
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ValkovYuriy/templet.git/HEAD)
+* interactively with Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Glor27/templet.git/HEAD) ,
 * or use the provided [MS Visual Studio](https://visualstudio.microsoft.com) project files,
 * or compile the source files in any C ++ programming environment.
 
